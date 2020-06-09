@@ -1,0 +1,40 @@
+[1.0] virus data use infection study di
+	System Chosen Intruder Word = data
+	True Intruder Word = data
+
+[1.0] cell virus use mouse protein al
+	System Chosen Intruder Word = mouse
+	True Intruder Word = mouse
+
+[1.0] al analysis et q use virus
+	System Chosen Intruder Word = analysis
+	True Intruder Word = analysis
+
+[1.0] patient activity study use disease may
+	System Chosen Intruder Word = activity
+	True Intruder Word = activity
+
+[1.0] de la en el los see
+	System Chosen Intruder Word = see
+	True Intruder Word = see
+
+[1.0] der die und pcr use patient
+	System Chosen Intruder Word = pcr
+	True Intruder Word = pcr
+
+[0.0] de le ibv la et à
+	System Chosen Intruder Word = et
+	True Intruder Word = ibv
+
+[0.0] dilution use virus health disease study
+	System Chosen Intruder Word = health
+	True Intruder Word = dilution
+
+[0.0] cell use protein infection benefit gene
+	System Chosen Intruder Word = gene
+	True Intruder Word = benefit
+
+[1.0] virus cell infection use protein subsequently
+	System Chosen Intruder Word = subsequently
+	True Intruder Word = subsequently
+

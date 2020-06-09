@@ -1,0 +1,16 @@
+!!<TOTAL_WINDOWS>!!|101103067
+al|1002059
+al|cell|10441
+al|et|391115
+al|use|88753
+al|virus|160716
+cell|1342541
+cell|et|23405
+cell|use|451231
+cell|virus|108023
+et|1026990
+et|use|178743
+et|virus|332348
+use|1380657
+use|virus|532817
+virus|1269355

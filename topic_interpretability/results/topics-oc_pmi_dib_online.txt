@@ -1,0 +1,13 @@
+[0.68] ( 0.68; ) virus use infection study di
+[0.82] ( 0.82; ) cell virus use protein al
+[0.75] ( 0.75; ) al et q use virus
+[0.91] ( 0.91; ) patient study use disease may
+[0.11] ( 0.11; ) de la en el los
+[0.11] ( 0.11; ) der die und use patient
+[-0.59] ( -0.59; ) de le la et à
+[0.05] ( 0.05; ) use virus health disease study
+[-0.02] ( -0.02; ) cell use protein infection gene
+[0.93] ( 0.93; ) virus cell infection use protein
+==========================================================================
+Average Topic Coherence = 0.375
+Median Topic Coherence = 0.394
